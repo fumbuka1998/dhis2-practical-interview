@@ -1,4 +1,22 @@
 <!-- in this readme.md file am going to explain part(a) of deliverables -->
+<!-- how to install and run the system on your machine -->
+
+
+
+# dhis2-practical-interview
+
+This is a simple React weather application that allows users to check the weather forecast for a specific location. The application uses the OpenWeatherMap API to fetch weather data.
+#instructions on how to run this
+Make sure you have the following software installed on your machine:
+i.Node.js
+ii. npm (Node Package Manager)
+
+-there after clone the repository to your system
+-navigate to the project directory
+-install dependencies
+-go and glab the api key from https://home.openweathermap.org/api_keys
+-start the application
+-open the browser and navigate to the url
 
 <!-- DESIGN DECISION -->
 
